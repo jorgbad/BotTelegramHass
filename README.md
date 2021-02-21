@@ -1,2 +1,2 @@
 # BotTelegramHass
-Bot para dar ordenes a una instancia Homeassistant a traves de Telegram
+Bot para interactuar con una instancia Homeassistant a traves de Telegramram
